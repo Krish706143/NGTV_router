@@ -51,3 +51,13 @@ Loaded the final dataset into Azure Synapse Analytics for reporting and analytic
 
 🎯 Impact
  This project significantly improved operational efficiency and automated a previously manual, error-prone process. It also strengthened our data pipeline for real-time monitoring and reporting.
+
+## Architecture
+
+Following is the architecture of the project.
+
+<p align='center'>
+  <img src='https://github.com/waqarg2001/earthquake-etl-pipeline/blob/main/Resources/architecture.png' height=385 width=1100>
+</p> 
+
+ 
